@@ -43,6 +43,6 @@ A full-stack e-commerce website for clothing retail built with modern web techno
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/Mohanprasanth28/Clothing-Website]
+git clone [https://github.com/Monesh2004/Clothing-Website]
 
 
